@@ -1,0 +1,8 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+server/
+yarn-error.log
+yarn.lock
+.eslintrc.json
+app.js
